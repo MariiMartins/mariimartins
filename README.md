@@ -1,6 +1,6 @@
 ### Oiee👋
-🎓 Production Engineer
-👩‍💻Data Analyst Intern - CX Team
+- 🎓 Production Engineer
+- 👩‍💻 Data Analyst Intern - CX Team
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
