@@ -1,6 +1,6 @@
 ### Oiee👋
 - 🎓 Production Engineer
-- 👩‍💻 Data Analyst Intern - CX Team
+- 👩‍💻 Data Eng. Júnior - Service Delivery
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
