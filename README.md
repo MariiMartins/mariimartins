@@ -1,6 +1,7 @@
 ### Oiee👋
 - 🎓 Production Engineer
 - 👩‍💻 Data Eng. Júnior - Service Delivery
+- PMO
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
