@@ -1,7 +1,7 @@
 ### Oiee👋
 - 🎓 Production Engineer
 - 👩‍💻 Data Eng. Júnior - Service Delivery
-- PMO
+- SPOC Client -PMO
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
