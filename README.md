@@ -1,7 +1,22 @@
 ### Oiee👋
 - 🎓 Production Engineer
-- 👩‍💻 Data Eng. Júnior - Service Delivery
-- SPOC Client -PMO
+- 👩‍💻 
+
+Experiente em Gestão de projetos com foco em metodologias de projetos ágeis desde 2016.
+Atuei com a implementação do Jira Service Management (Jira Desk) e do Jira Software, sustentação de chamados e monitoramento de atividades no Jira Software, onde gerenciei  processos de produtos e projetos, orçamento e relacionamento com clientes.
+
+Como Cientista e Engenheira de Dados atuei com manipulação de fluxo e volume de dados em ETL, Banco de Dados nao relacional (Elasticsearch), Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados, Participação na construção do framework de plataforma, Atuação em projeto e clientes em on-boarding e sustentação
+
+Tecnologias envolvidas
+-Data-Lakes
+-Databricks
+-Apache NiFi
+-Python
+-Serverless framework
+-Manipulação de repositórios Git
+-Banco de Dados nao relacional
+
+Facilidade para atuar e liderar times multidisciplinares.
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
