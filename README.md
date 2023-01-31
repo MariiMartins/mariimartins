@@ -31,6 +31,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Mari-Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Mari-ELS" height="30" width="80" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
   
  ##
@@ -38,7 +39,9 @@ Facilidade para atuar e liderar times multidisciplinares.
 <div align="center">
     <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <img align="center"> <a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
 </div>  
+    
   
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
