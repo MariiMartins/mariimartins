@@ -2,21 +2,15 @@
 - 🎓 Production Engineer
 - 👩‍💻 
 
-Experiente em Gestão de projetos com foco em metodologias de projetos ágeis desde 2016.
-Atuei com a implementação do Jira Service Management (Jira Desk) e do Jira Software, sustentação de chamados e monitoramento de atividades no Jira Software, onde gerenciei  processos de produtos e projetos, orçamento e relacionamento com clientes.
+Profissional da área de tecnologia, Gerente de Projetos, com aproximadamente 6 anos de experiência em metodologias de projetos ágeis. Participou da implementação do Jira Service Management (Jira Desk) e do Jira Software, no qual, gerenciou processos de produtos e projetos, orçamentos e relacionamento com clientes.
 
-Como Cientista e Engenheira de Dados atuei com manipulação de fluxo e volume de dados em ETL, Banco de Dados nao relacional (Elasticsearch), Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados, Participação na construção do framework de plataforma, Atuação em projeto e clientes em on-boarding e sustentação
+Além disso, como Cientista e Engenheira de Dados, atuou com manipulação de fluxo e volume de dados em ETL, Banco de Dados não relacional (Elasticsearch), uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados. Participou na construção do framework de plataforma, atuou em projetos, tendo interface com clientes em onboarding e sustentação.
 
-Tecnologias envolvidas
--Data-Lakes
--Databricks
--Apache NiFi
--Python
--Serverless framework
--Manipulação de repositórios Git
--Banco de Dados nao relacional
-
+Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Infra Data, Trello, Clickup, Scrum, Kanban, PMO.
 Facilidade para atuar e liderar times multidisciplinares.
+
+ - Disponível para Mudanças -
+
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
