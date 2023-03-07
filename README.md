@@ -6,7 +6,7 @@ Profissional da área de tecnologia, Gerente de Projetos, com aproximadamente 6 
 
 Além disso, como Cientista e Engenheira de Dados, atuou com manipulação de fluxo e volume de dados em ETL, Banco de Dados não relacional (Elasticsearch), uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados. Participou na construção do framework de plataforma, atuou em projetos, tendo interface com clientes em onboarding e sustentação.
 
-Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Infra Data, Trello, Clickup, Scrum, Kanban, PMO.
+Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Trello, Clickup, Scrum, Kanban, PMO.
 Facilidade para atuar e liderar times multidisciplinares.
 
  - Disponível para Mudanças -
