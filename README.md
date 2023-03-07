@@ -11,12 +11,13 @@ Facilidade para atuar e liderar times multidisciplinares.
 
  - Disponível para Mudanças -
 
-
+<!--
 <div align="center">
   <a href="https://github.com/MariiMartins">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->   
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,7 +36,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center"> <a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
 </div>  
-    
+ 
   
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
