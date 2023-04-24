@@ -35,6 +35,7 @@ Facilidade para atuar e liderar times multidisciplinares.
     <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center"> <a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
+ <img align="center"> <a href="https://g.dev/maricmartins" target="_blank"><img src="https://images.app.goo.gl/b2wxzHfP3TerhTWq7" target="_blank"></a> 
 </div>  
  
   
