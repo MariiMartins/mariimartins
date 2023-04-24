@@ -1,6 +1,6 @@
 ### Oiee👋
 - 🎓 Production Engineer
-- 👩‍💻 Aspirante a Engenheira de Dados
+- 👩‍💻 Engenheira de Dados, Gerente de Produto/Projeto
 
 Profissional da área de tecnologia, Gerente de Projetos, com aproximadamente 6 anos de experiência em metodologias de projetos ágeis. Participou da implementação do Jira Service Management (Jira Desk) e do Jira Software, no qual, gerenciou processos de produtos e projetos, orçamentos e relacionamento com clientes.
 
