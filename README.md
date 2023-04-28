@@ -27,6 +27,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Mari-ELS" height="30" width="80" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+   <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
 </div>
   
  ##
@@ -35,8 +36,9 @@ Facilidade para atuar e liderar times multidisciplinares.
     <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <img align="center"> <a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
- <img align="center"> <a href="https://g.dev/maricmartins" target="_blank"><img src="https://images.app.goo.gl/b2wxzHfP3TerhTWq7" target="_blank"></a> 
-</div>  
+ <img align="center"> <a href="https://g.dev/maricmartins" target="_blank"><img align="center" alt="GDev" height="30" width="80"  src="https://user-images.githubusercontent.com/42555083/235204691-5086ea41-bca6-4e7c-8da8-cc34dea0e2c2.svg" target="_blank"></a> 
+</div> 
+
  
   
 <!--
@@ -52,4 +54,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+site para icones de tecnologia: https://simpleicons.org/
 -->
