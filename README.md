@@ -14,9 +14,11 @@ Facilidade para atuar e liderar times multidisciplinares.
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ##
   
 
 <div align="center" style="display: inline_block"><br>
@@ -30,8 +32,8 @@ Facilidade para atuar e liderar times multidisciplinares.
    <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
 </div>
   
- ##
-  
+## 
+ 
 <div align="center">
     <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
