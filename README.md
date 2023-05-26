@@ -2,15 +2,16 @@
 - 🎓 Production Engineer
 - 👩‍💻 Engenheira de Dados | Gerente de Produto/Projeto
 
-Profissional da área de tecnologia, Gerente de Projetos, com aproximadamente 6 anos de experiência em metodologias de projetos ágeis. Participou da implementação do Jira Service Management (Jira Desk) e do Jira Software, no qual, gerenciou processos de produtos e projetos, orçamentos e relacionamento com clientes.
+ Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
 
-Além disso, como Cientista e Engenheira de Dados, atuou com manipulação de fluxo e volume de dados em ETL, Banco de Dados não relacional (Elasticsearch), uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados. Participou na construção do framework de plataforma, atuou em projetos, tendo interface com clientes em onboarding e sustentação.
+Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
 
-Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Trello, Clickup, Scrum, Kanban, PMO.
+Domino uma variedade de recursos e tecnologias relevantes para a área de Engenharia de Dados. Entre eles estão Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework e manipulação de repositórios Git. Além disso, tenho conhecimentos em Banco de Dados não relacional. Utilizo uma abordagem ágil em meus projetos, sendo fluente no uso de ferramentas como Jira para gerenciar o fluxo de trabalho de forma eficiente.
+
+Ao longo da minha trajetória, ganhei experiência prática com serviços e soluções em nuvem, com destaque para AWS. Também sou especializada em Hadoop, Spark e Airflow, ferramentas amplamente utilizadas na área de Engenharia de Dados.
 Facilidade para atuar e liderar times multidisciplinares.
 
  - Disponível para Mudanças -
-
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
@@ -57,4 +58,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 site para icones de tecnologia: https://simpleicons.org/
+-->
+<!-- Profissional da área de tecnologia, Gerente de Projetos, com aproximadamente 6 anos de experiência em metodologias de projetos ágeis. Participou da implementação do Jira Service Management (Jira Desk) e do Jira Software, no qual, gerenciou processos de produtos e projetos, orçamentos e relacionamento com clientes.
+
+Além disso, como Cientista e Engenheira de Dados, atuou com manipulação de fluxo e volume de dados em ETL, Banco de Dados não relacional (Elasticsearch), uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados. Participou na construção do framework de plataforma, atuou em projetos, tendo interface com clientes em onboarding e sustentação.
+
+Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Trello, Clickup, Scrum, Kanban, PMO.
 -->
