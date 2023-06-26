@@ -1,8 +1,10 @@
 ### Oiee👋
+
 - 🎓 Production Engineer
 - 👩‍💻 Engenheira de Dados | Gerente de Produto/Projeto
+- 📚 IA Student
 
- Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
+Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
 
 Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
 
@@ -11,22 +13,23 @@ Domino uma variedade de recursos e tecnologias relevantes para a área de Engenh
 Ao longo da minha trajetória, ganhei experiência prática com serviços e soluções em nuvem, com destaque para AWS. Também sou especializada em Hadoop, Spark e Airflow, ferramentas amplamente utilizadas na área de Engenharia de Dados.
 Facilidade para atuar e liderar times multidisciplinares.
 
- - Disponível para Mudanças -
-
+- Disponível para Mudanças -
+<!--
 <div align="center">
   <a href="https://github.com/MariiMartins">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
- ##
- 
-<div align="center">
-    <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-</div> 
+-->
+##
 
- ##
+<div align="center">
+    <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+##
+
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
