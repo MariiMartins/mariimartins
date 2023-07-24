@@ -14,13 +14,13 @@ Ao longo da minha trajetória, ganhei experiência prática com serviços e solu
 Facilidade para atuar e liderar times multidisciplinares.
 
 - Disponível para Mudanças -
-<!--
+
 <div align="center">
   <a href="https://github.com/MariiMartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ --> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
+
 ##
 
 <div align="center">
