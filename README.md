@@ -72,11 +72,12 @@ TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
 Infracommerce           :active,, 2022-03-01,2022-07-01
 Infracommerce          :active,, 2022-07-01,2022-12-01
 ```
+
 </details>
 
 ## Formação Acadêmica
 
-📜 - Bacharel em Engenharia de Produção - UMESP (2017 - 2022)
+📜 - [Bacharel em Engenharia de Produção - UMESP (2017 - 2022)](https://github.com/MariiMartins/mariimartins/blob/main/doc/ESTUDO%20DO%20OEE%20PARA%20IDENTIFICACAO%20DE%20GARGALOS%20NO%20PROCESSO%20PRODUTIVO.pdf)
 
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
