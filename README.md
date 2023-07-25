@@ -4,6 +4,8 @@
 - 👩‍💻 Engenheira de Dados | Gerente de Produto/Projeto
 - 📚 IA Student
 
+## Apresentação
+
 Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
 
 Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
@@ -28,7 +30,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-##
+## 
 
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -40,6 +42,22 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
    <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
 </div>
+
+## Atuação profissional
+
+ Empresa | Cargo | Tempo
+---|---|---
+Infracommerce | Single Point of Contact | 07/2022 - 12/2022
+Infracommerce | Data Engineer | 03/2022 - 07/2022
+TEVEC Inteligencia Artificial | CX Intern (voltado para Data Science e Data Engineer)| 09/2021 - 02/2022
+Slideworks | Product Owner | 05/2021 - 07/2021
+Empresa Jr | Analista Eng Produção - Manufatura (experiência academica)| 04/2018 - 04/2020
+Technovation Challenge BR | Mentora-Embaixadora (Voluntário) | 02/2016 - 11/2020
+
+## 
+
+<details>
+<summary> Linha do Tempo - TRABALHO </summary>
 
 ``` mermaid
 
@@ -54,8 +72,11 @@ TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
 Infracommerce           :active,, 2022-03-01,2022-07-01
 Infracommerce          :active,, 2022-07-01,2022-12-01
 ```
+</details>
 
+## Formação Acadêmica
 
+📜 - Bacharel em Engenharia de Produção - UMESP (2017 - 2022)
 
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
