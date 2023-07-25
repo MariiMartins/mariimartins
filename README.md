@@ -40,7 +40,23 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
    <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
 </div>
-  
+
+``` mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Technovation Challenge        :active,, 2016-02-02,2020-11-30
+Slideworks        :active,, 2021-05-10,2021-07-31
+TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
+Infracommerce           :active,, 2022-03-01,2022-07-01
+Infracommerce          :active,, 2022-07-01,2022-12-01
+```
+
+
+
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
