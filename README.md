@@ -79,6 +79,8 @@ Infracommerce          :active,, 2022-07-01,2022-12-01
 
 📜 - [Bacharel em Engenharia de Produção - UMESP (2017 - 2022)](https://github.com/MariiMartins/mariimartins/blob/main/doc/ESTUDO%20DO%20OEE%20PARA%20IDENTIFICACAO%20DE%20GARGALOS%20NO%20PROCESSO%20PRODUTIVO.pdf)
 
+💻 - Tecnico em Informática enfase em Gestão de Negócios - EME Prof. Alcina Dantas Feijão (02/2015 - 06/2016)
+
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
