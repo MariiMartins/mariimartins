@@ -10,7 +10,7 @@ Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e 
 
 Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
 
-Domino uma variedade de recursos e tecnologias relevantes para a área de Engenharia de Dados. Entre eles estão Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework e manipulação de repositórios Git. Além disso, tenho conhecimentos em Banco de Dados não relacional. Utilizo uma abordagem ágil em meus projetos, sendo fluente no uso de ferramentas como Jira para gerenciar o fluxo de trabalho de forma eficiente.
+Domino uma variedade de recursos e tecnologias relevantes para a área de Engenharia de Dados. Entre eles estão Data-Lakes, Databricks, Apache NiFi, Python e manipulação de repositórios Git. Além disso, tenho conhecimentos em Banco de Dados não relacional. Utilizo uma abordagem ágil em meus projetos, sendo fluente no uso de ferramentas como Jira para gerenciar o fluxo de trabalho de forma eficiente.
 
 Ao longo da minha trajetória, ganhei experiência prática com serviços e soluções em nuvem, com destaque para AWS. Também sou especializada em Hadoop, Spark e Airflow, ferramentas amplamente utilizadas na área de Engenharia de Dados.
 Facilidade para atuar e liderar times multidisciplinares.
