@@ -72,12 +72,12 @@ Slideworks        :active,, 2021-05-10,2021-07-31
 TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
 Infracommerce           :active,, 2022-03-01,2022-07-01
 Infracommerce          :active,, 2022-07-01,2022-12-01
-? :active,, 2023-01-01,2024-01-01
 
 
 section Estudo
 Técnico em Informática    :active,, 2015-02-07,2016-06-30
 Engenharia de Produção  :active,, 2017-02-01,2022-06-30
+Estudante de DataEngineer :active,, 2023-01-01,2024-01-01
 ```
 
 </details>
