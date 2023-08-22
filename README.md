@@ -76,7 +76,7 @@ Infracommerce          :active,, 2022-07-01,2022-12-01
 
 section Estudo
 Técnico em Informática    :active,, 2015-02-07,2016-06-30
-Engenharia de Produção  :active,, 2022-02-01,2022-06-30
+Engenharia de Produção  :active,, 2017-02-01,2022-06-30
 ```
 
 </details>
