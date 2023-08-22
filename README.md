@@ -72,6 +72,7 @@ Slideworks        :active,, 2021-05-10,2021-07-31
 TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
 Infracommerce           :active,, 2022-03-01,2022-07-01
 Infracommerce          :active,, 2022-07-01,2022-12-01
+? :active,, 2023-01-01,2024-01-01
 
 
 section Estudo
