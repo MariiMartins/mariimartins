@@ -57,7 +57,7 @@ Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica
 ## 
 
 <details>
-<summary> Linha do Tempo - TRABALHO </summary>
+<summary> Linha do Tempo - TRABALHO/ESTUDO</summary>
 
 ``` mermaid
 
@@ -72,6 +72,12 @@ Slideworks        :active,, 2021-05-10,2021-07-31
 TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
 Infracommerce           :active,, 2022-03-01,2022-07-01
 Infracommerce          :active,, 2022-07-01,2022-12-01
+
+
+section Estudo
+Técnico em Informática    :active,, 2015-02-07,2016-06-30
+Engenharia de Produção :active,, 2027-02-01,2022-06-30
+
 ```
 
 </details>
