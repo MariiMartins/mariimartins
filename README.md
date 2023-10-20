@@ -30,7 +30,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-## 
+<!--## 
 
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -41,7 +41,7 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-ELS" height="30" width="80" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
    <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
-</div>
+</div> -->
 
 ## Atuação profissional
 
@@ -71,9 +71,8 @@ Incubadora Mondó        :active,, 2018-04-02,2020-04-30
 Technovation Challenge        :active,, 2016-02-02,2020-11-30
 Slideworks        :active,, 2021-05-10,2021-07-31
 TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
-Infracommerce           :active,, 2022-03-01,2022-07-01
-Infracommerce          :active,, 2022-07-01,2022-12-01
-Far.Me Tech          : active,, 2023-09-05, 2025-12-31
+Infracommerce          :active,, 2022-03-01,2022-12-01
+Far.Me Tech          : active,, 2023-09-05, 2024-12-31
 
 
 section Estudo
