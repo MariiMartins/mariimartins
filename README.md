@@ -1,7 +1,7 @@
 ### Oiee👋
 
-- 🎓 Production Engineer
 - 👩‍💻 Engenheira de Dados | Gerente de Produto/Projeto
+- 🎓 Production Engineer
 - 📚 IA Student
 
 ## Apresentação
@@ -55,33 +55,7 @@ Slideworks | Product Owner | 05/2021 - 07/2021
 Technovation Challenge BR | Mentora-Embaixadora (Voluntário) | 02/2016 - 11/2020
 Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica)| 04/2018 - 04/2020
 
-## 
-
-<details>
-<summary> Linha do Tempo - TRABALHO/ESTUDO</summary>
-
-``` mermaid
-
-gantt
-dateFormat  YYYY-MM-DD
-title My Timeline
-
-section Carreira
-Incubadora Mondó        :active,, 2018-04-02,2020-04-30
-Technovation Challenge        :active,, 2016-02-02,2020-11-30
-Slideworks        :active,, 2021-05-10,2021-07-31
-TEVEC Inteligencia Artificial       :active,, 2021-09-01,2022-02-28
-Infracommerce          :active,, 2022-03-01,2022-12-01
-Far.Me Tech          : active,, 2023-09-05, 2024-12-31
-
-
-section Estudo
-Técnico em Informática    :active,, 2015-02-07,2016-06-30
-Engenharia de Produção  :active,, 2017-02-01,2022-06-30
-Estudante de DataEngineer :active,, 2023-01-01,2024-01-01
-```
-
-</details>
+[Currículo](https://github.com/MariiMartins/mariimartins/blob/main/doc/Mariana%20Casimiro%20Martins%20v4.pdf)
 
 ## Formação Acadêmica
 
@@ -112,5 +86,6 @@ Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache Ni
 -->
  <!--
   <img align="center"> <a href="https://g.dev/maricmartins" target="_blank"><img align="center" alt="GDev" height="30" width="80"  src="https://user-images.githubusercontent.com/42555083/235204691-5086ea41-bca6-4e7c-8da8-cc34dea0e2c2.svg" target="_blank"></a>   
+
 ## 
 -->
