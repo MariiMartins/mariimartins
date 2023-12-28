@@ -1,6 +1,6 @@
 ### Oiee👋
 
-- 👩‍💻 Engenheira de Dados | Gerente de Produto/Projeto
+- 💻👩‍💻💼 Engenheira de Dados | Gerente de Produto/Projeto
 - 🎓 Production Engineer
 - 📚 IA Student
 
