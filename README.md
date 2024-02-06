@@ -19,6 +19,7 @@ Facilidade para atuar e liderar times multidisciplinares.
 
 <div align="center">
   <a href="https://github.com/MariiMartins">
+
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariiMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  --> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -61,7 +62,7 @@ Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica
 
 📜 - [Bacharel em Engenharia de Produção - UMESP (2017 - 2022)](https://github.com/MariiMartins/mariimartins/blob/main/doc/ESTUDO%20DO%20OEE%20PARA%20IDENTIFICACAO%20DE%20GARGALOS%20NO%20PROCESSO%20PRODUTIVO.pdf)
 
-💻 - Tecnico em Informática enfase em Gestão de Negócios - EME Prof. Alcina Dantas Feijão (02/2015 - 06/2016)
+💻 - Técnico em Informática enfase em Gestão de Negócios - EME Prof. Alcina Dantas Feijão (02/2015 - 06/2016)
 
 <!--
 **MariiMartins/mariimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
