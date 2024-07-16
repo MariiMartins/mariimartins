@@ -3,6 +3,7 @@
 - 💻👩‍💻💼 Engenheira de Dados | Gerente de Produto/Projeto
 - 🎓 Production Engineer
 - 📚 IA Student
+- Linux User
 
 ## Apresentação
 
