@@ -3,7 +3,7 @@
 - 💻👩‍💻💼 Engenheira de Dados | Gerente de Produto/Projeto
 - 🎓 Production Engineer
 - 📚 IA Student
-- Linux User
+- Linux/MacOs User
 
 ## Apresentação
 
@@ -62,7 +62,7 @@ Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica
 
 ## Formação Acadêmica
 
-📜 - Pós Grad Ciencia de Dados e IA -  (2024 - 2025)
+📜 - Pós-Grad Ciencia de Dados e IA -  (2024 - 2025)
 
 📜 - [Bacharel em Engenharia de Produção - UMESP (2017 - 2022)](https://github.com/MariiMartins/mariimartins/blob/main/doc/ESTUDO%20DO%20OEE%20PARA%20IDENTIFICACAO%20DE%20GARGALOS%20NO%20PROCESSO%20PRODUTIVO.pdf)
 
