@@ -50,6 +50,7 @@ Facilidade para atuar e liderar times multidisciplinares.
 
  Empresa | Cargo | Tempo
 ---|---|---
+Far.Me Tech | Senior PCI | 07/2024 - now
 Far.Me Tech | F. Data Engineer | 09/2023 - now
 Infracommerce | Single Point of Contact | 07/2022 - 12/2022
 Infracommerce | Data Engineer | 03/2022 - 07/2022
