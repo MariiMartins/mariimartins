@@ -58,7 +58,7 @@ Slideworks | Product Owner | 05/2021 - 07/2021
 Technovation Challenge BR | Mentora-Embaixadora (Voluntário) | 02/2016 - 11/2020
 Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica)| 04/2018 - 04/2020
 
-[Currículo](https://github.com/MariiMartins/mariimartins/blob/main/doc/Mariana%20Casimiro%20Martins%20v4.pdf) | [Certificates](https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial)
+[Currículo](https://github.com/MariiMartins/mariimartins/blob/main/doc/Mariana%20Casimiro%20Martins%20v5.pdf) | [Certificates](https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial)
 
 ## Formação Acadêmica
 
