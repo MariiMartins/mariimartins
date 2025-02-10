@@ -31,6 +31,8 @@ Facilidade para atuar e liderar times multidisciplinares.
 <div align="center">
     <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img align="center"><a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial"target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsites.google.com%2Fview%2Fmaricmartins%2Fp%25C3%25A1gina-inicial&up_message=up&up_color=blue&down_color=blue&style=social&logo=apachesuperset&logoColor=violet&logoSize=auto&label=Certificates&labelColor=a0d6b4&color=a0d6b4&cacheSeconds=360"></a>
+
 </div>
 
 <!--## 
@@ -44,6 +46,21 @@ Facilidade para atuar e liderar times multidisciplinares.
   <img align="center" alt="Mari-ELS" height="30" width="80" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img align="center" alt="Mari-Jira" height="30" width="80" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
    <img align="center" alt="Mari-AWS" height="30" width="80" src="https://user-images.githubusercontent.com/42555083/235203188-421255d0-d783-4bb4-8356-00f011610f80.svg">
+ <a href="https://github.com/MariiMartins?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MariiMartins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+ </a> 
+<a href="https://github.com/MariiMartins?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MariiMartins?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+</a>   
 </div> -->
 
 ## Atuação profissional
