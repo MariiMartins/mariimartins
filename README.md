@@ -29,9 +29,9 @@ Facilidade para atuar e liderar times multidisciplinares.
 ##
 
 <div align="center">
-    <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="center"> <a href="https://br.linkedin.com/in/mariana-m-08598" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="center"> <a href="mailto:marimartpd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img align="center"><a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial"target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsites.google.com%2Fview%2Fmaricmartins%2Fp%25C3%25A1gina-inicial&up_message=up&up_color=blue&down_color=blue&style=social&logo=apachesuperset&logoColor=violet&logoSize=auto&label=Certificates&labelColor=a0d6b4&color=a0d6b4&cacheSeconds=360"></a>
+  <img align="center"><a href="https://sites.google.com/view/maricmartins/p%C3%A1gina-inicial"target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsites.google.com%2Fview%2Fmaricmartins%2Fp%25C3%25A1gina-inicial&up_message=up&up_color=blue&down_color=blue&style=social&logo=apachesuperset&logoColor=violet&logoSize=auto&label=Certificates&labelColor=a0d6b4&color=a0d6b4&cacheSeconds=360"></a>
 
 </div>
 
