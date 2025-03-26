@@ -7,14 +7,13 @@
 
 ## Apresentação
 
-Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
+Engenheira de Dados com experiência em grandes volumes de dados, desenvolvimento de pipelines ETL/ELT e automação de processos. Especialista em Python, SQL, Apache Superset, Trino, AWS e Big Data, atuando no design e manutenção de data lakes, infraestrutura de dados e sistemas distribuídos.
 
-Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
+Como Data Full Stack Engineer, lidero a implementação de pipelines, otimização de código e pesquisa de novas tecnologias, além de desenvolver dashboards interativos, métricas estratégicas e automação de workflows. Minha trajetória inclui projetos de engenharia de dados, machine learning e ciência de dados, sempre priorizando eficiência, escalabilidade, governança com foco no negócio.
 
-Domino uma variedade de recursos e tecnologias relevantes para a área de Engenharia de Dados. Entre eles estão Data-Lakes, Databricks, Apache NiFi, Python e manipulação de repositórios Git. Além disso, tenho conhecimentos em Banco de Dados não relacional. Utilizo uma abordagem ágil em meus projetos, sendo fluente no uso de ferramentas como Jira para gerenciar o fluxo de trabalho de forma eficiente.
+Apaixonada por transformar dados em insights acionáveis, estou sempre em busca de novos desafios e oportunidades para impulsionar decisões estratégicas com engenharia de dados.
 
-Ao longo da minha trajetória, ganhei experiência prática com serviços e soluções em nuvem, com destaque para AWS. Também sou especializada em Hadoop, Spark e Airflow, ferramentas amplamente utilizadas na área de Engenharia de Dados.
-Facilidade para atuar e liderar times multidisciplinares.
+Se você procura alguém que combina habilidades técnicas com uma visão estratégica para transformar dados em valor, estou aberta a novas oportunidades e desafios.
 
 - Disponível para Mudanças -
 
@@ -67,7 +66,7 @@ Facilidade para atuar e liderar times multidisciplinares.
 
  Empresa | Cargo | Tempo
 ---|---|---
-Far.Me Tech | F. Data Engineer | 09/2023 - now
+Far.Me Tech | F. Data Engineer | 09/2023 - 03/2025
 Infracommerce | Single Point of Contact | 07/2022 - 12/2022
 Infracommerce | Data Engineer | 03/2022 - 07/2022
 TEVEC Inteligencia Artificial | CX Intern (voltado para Data Science e Data Engineer)| 09/2021 - 02/2022
@@ -105,6 +104,16 @@ site para icones de tecnologia: https://simpleicons.org/
 Além disso, como Cientista e Engenheira de Dados, atuou com manipulação de fluxo e volume de dados em ETL, Banco de Dados não relacional (Elasticsearch), uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados. Participou na construção do framework de plataforma, atuou em projetos, tendo interface com clientes em onboarding e sustentação.
 
 Principais recursos e tecnologias trabalhadas: Data-Lakes, Databricks, Apache NiFi, Python, Serverless framework, Manipulação de repositórios Git, Banco de Dados não relacional, Agile, Jira, SFPC, AWS, ETL, Trello, Clickup, Scrum, Kanban, PMO.
+
+
+Como Engenheira de Dados, adquiri expertise sólida na manipulação de fluxo e volume de dados em processos ETL. Possuo experiência comprovada no uso de tecnologias de Big Data e processamento paralelo distribuído para lidar com grandes volumes de dados de forma eficiente.
+
+Tive a oportunidade de participar ativamente na construção de um framework de plataforma, contribuindo para o desenvolvimento de soluções escaláveis e eficientes. Durante minha carreira, atuei em projetos desafiadores, trabalhando diretamente com clientes no processo de integração e suporte, garantindo o sucesso dos projetos.
+
+Domino uma variedade de recursos e tecnologias relevantes para a área de Engenharia de Dados. Entre eles estão Data-Lakes, Databricks, Apache NiFi, Python e manipulação de repositórios Git. Além disso, tenho conhecimentos em Banco de Dados não relacional. Utilizo uma abordagem ágil em meus projetos, sendo fluente no uso de ferramentas como Jira para gerenciar o fluxo de trabalho de forma eficiente.
+
+Ao longo da minha trajetória, ganhei experiência prática com serviços e soluções em nuvem, com destaque para AWS. Também sou especializada em Hadoop, Spark e Airflow, ferramentas amplamente utilizadas na área de Engenharia de Dados.
+Facilidade para atuar e liderar times multidisciplinares.
 -->
  <!--
   <img align="center"> <a href="https://g.dev/maricmartins" target="_blank"><img align="center" alt="GDev" height="30" width="80"  src="https://user-images.githubusercontent.com/42555083/235204691-5086ea41-bca6-4e7c-8da8-cc34dea0e2c2.svg" target="_blank"></a>   
