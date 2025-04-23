@@ -1,2 +1,7 @@
 .vscode
 *.json
+*.log
+*.zip
+*.tar
+*.tar.gz
+*.txt
