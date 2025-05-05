@@ -5,3 +5,4 @@
 *.tar
 *.tar.gz
 *.txt
+.DS_Store
