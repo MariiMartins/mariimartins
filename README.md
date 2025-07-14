@@ -66,8 +66,8 @@ Se você procura alguém que combina habilidades técnicas com uma visão estrat
 
  Empresa | Cargo | Tempo
 ---|---|---
-Far.Me Tech | F. Data Engineer | 09/2023 - 03/2025
-Infracommerce | Single Point of Contact | 07/2022 - 12/2022
+Far.Me Tech | First Data Engineer | 09/2023 - 03/2025
+Infracommerce | Single Point of Contact - Data Engineer | 07/2022 - 12/2022
 Infracommerce | Data Engineer | 03/2022 - 07/2022
 TEVEC Inteligencia Artificial | CX Intern (voltado para Data Science e Data Engineer)| 09/2021 - 02/2022
 Slideworks | Product Owner | 05/2021 - 07/2021
