@@ -79,7 +79,7 @@ Incubadora Mondó | Analista Eng Produção - Manufatura (experiência academica
 ## Formação Acadêmica
 
 📜 - Pós-Grad Ciencia de Dados e IA -  (2024 - 2025) | [Atualização](https://github.com/MariiMartins/mariimartins/blob/main/doc/Certificado%20de%20Conclus%C3%A3o%20de%20Curso%20-%20at.pdf)
-| [Aperfeiçoamento](https://github.com/MariiMartins/mariimartins/blob/main/doc/%20Certificado%20de%20Aperfeicoamento%20de%20Curso.pdf) | [Especialização]
+| [Aperfeiçoamento](https://github.com/MariiMartins/mariimartins/blob/main/doc/%20Certificado%20de%20Aperfeicoamento%20de%20Curso.pdf) | [Especialização](/Users/marianamartins/Desktop/GIT/mariimartins/doc/image.png)
 
 📜 - [Bacharel em Engenharia de Produção - UMESP (2017 - 2022)](https://github.com/MariiMartins/mariimartins/blob/main/doc/ESTUDO%20DO%20OEE%20PARA%20IDENTIFICACAO%20DE%20GARGALOS%20NO%20PROCESSO%20PRODUTIVO.pdf)
 
