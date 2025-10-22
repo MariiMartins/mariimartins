@@ -66,6 +66,7 @@ Se você procura alguém que combina habilidades técnicas com uma visão estrat
 
  Empresa | Cargo | Tempo
 ---|---|---
+Cogna Educação | Data Engineer II | 07/25 - now
 Far.Me Tech | First Data Engineer | 09/2023 - 03/2025
 Infracommerce | Single Point of Contact - Data Engineer | 07/2022 - 12/2022
 Infracommerce | Data Engineer | 03/2022 - 07/2022
