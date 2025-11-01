@@ -2,6 +2,7 @@
 
 - 💻👩‍💻💼 Engenheira de Dados | Gerente de Produto/Projeto
 - 🎓 Production Engineer
+- Data Science and IA Specialist
 - 📚 IA Student
 - Linux/MacOs User
 
@@ -66,7 +67,8 @@ Se você procura alguém que combina habilidades técnicas com uma visão estrat
 
  Empresa | Cargo | Tempo
 ---|---|---
-Cogna Educação | Data Engineer II | 07/25 - now
+ -|Data Engineer III| -
+Cogna Educação | Data Engineer II | 07/2025 - 10/2025
 Far.Me Tech | First Data Engineer | 09/2023 - 03/2025
 Infracommerce | Single Point of Contact - Data Engineer | 07/2022 - 12/2022
 Infracommerce | Data Engineer | 03/2022 - 07/2022
