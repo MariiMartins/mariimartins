@@ -67,7 +67,7 @@ Se você procura alguém que combina habilidades técnicas com uma visão estrat
 
  Empresa | Cargo | Tempo
 ---|---|---
- -|Data Engineer III| -
+ -|Data Engineer III (AWS DE)| 11/2025 - now
 Cogna Educação | Data Engineer II | 07/2025 - 10/2025
 Far.Me Tech | First Data Engineer | 09/2023 - 03/2025
 Infracommerce | Single Point of Contact - Data Engineer | 07/2022 - 12/2022
